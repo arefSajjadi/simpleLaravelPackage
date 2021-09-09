@@ -3,7 +3,7 @@
 # simpleLaravelPackage
 Base structure of laravel package
 
-#Installation
+# Installation
 ```shell
 composer require enormous/form_major
 ```
