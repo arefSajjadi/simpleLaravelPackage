@@ -1,2 +1,2 @@
 # simpleLaravelPackage
-Base structure of laravel package
+> Base structure of laravel package

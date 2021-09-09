@@ -1,0 +1,12 @@
+{
+    "name": "enormous/form_major",
+    "description": "This demo package will do some create a basic form in laravel",
+    "authors": [
+        {
+            "name": "Aref Sajjadi",
+            "email": "arefsajjadi80@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
